@@ -67,7 +67,7 @@
 <part>id</part>
 </key>
 </table>
-<table x="636" y="186" name="experiences">
+<table x="704" y="359" name="experiences">
 <row name="id" null="1" autoincrement="1">
 <datatype>INTEGER</datatype>
 <default>NULL</default></row>
@@ -86,7 +86,7 @@
 <part>id</part>
 </key>
 </table>
-<table x="959" y="198" name="professions">
+<table x="798" y="190" name="professions">
 <row name="id" null="1" autoincrement="1">
 <datatype>INTEGER</datatype>
 <default>NULL</default></row>
@@ -97,7 +97,7 @@
 <part>id</part>
 </key>
 </table>
-<table x="637" y="406" name="relatives">
+<table x="385" y="573" name="relatives">
 <row name="id" null="1" autoincrement="1">
 <datatype>INTEGER</datatype>
 <default>NULL</default></row>
